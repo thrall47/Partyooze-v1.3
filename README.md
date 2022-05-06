@@ -5,3 +5,4 @@ using Jitsi android sdk https://meet.jit.si
 
 ![Flash Call available on play store](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)
 downlod this app from Goole play store https://play.google.com/store/apps/details?id=com.infinty8.flashcall
+"# Partyooze-1.3" 
