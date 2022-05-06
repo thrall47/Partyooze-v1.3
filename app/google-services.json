@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "486980163704",
+    "project_id": "partyooze",
+    "storage_bucket": "partyooze.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486980163704:android:4a320d15d55571c3c6b58d",
+        "android_client_info": {
+          "package_name": "com.fenrir4.partyooze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486980163704-qqn9ic6mmnrof7dgnspgptfk952pom0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD4ApqlXJYN_mVzPBlOATQfB-j2ozponY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486980163704-qqn9ic6mmnrof7dgnspgptfk952pom0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
